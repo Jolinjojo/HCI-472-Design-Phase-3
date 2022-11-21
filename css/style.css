@@ -1,10 +1,10 @@
-/*@import url('https://fonts.googleapis.com/css?family=Fenix:400|Tiro+Kannada:400');*/
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Roboto&display=swap');
 
 html {font-size: 156.3%;} /*25px*/
 
 body {
   background: #EAF1FF;
-  font-family: 'Fenix', serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 400;
   line-height: 1.75;
   color: #000000;
@@ -14,7 +14,7 @@ p {margin-bottom: 1rem;}
 
 h1, h2, h3, h4 {
   margin: 3rem 0 1.38rem;
-  font-family: 'Tiro Kannada', serif;
+  font-family: 'Merriweather', serif;
   font-weight: 400;
   line-height: 1.3;
 }
